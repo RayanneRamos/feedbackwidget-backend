@@ -50,6 +50,14 @@ $ yarn start
 
 Se tudo estiver funcionando aparecerá uma mensagem no terminal.
 
+## 🔥 Desafios
+ - [] Em produção usar algum serviço de email
+ - [] Autenticação Firebase / OAuth
+ - [] Validação de campos / erros
+ - [x] Testes
+ - [x] Deploy
+
+
 ## 📝 License
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para obter mais detalhes.
