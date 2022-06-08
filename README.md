@@ -1,3 +1,7 @@
+<h1 align="center">
+  Feedback Widget Backend
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-%23835afd" alt="License">
   <img src="https://img.shields.io/badge/forks-MIT-%23835afd" alt="Forks">
@@ -51,9 +55,9 @@ $ yarn start
 Se tudo estiver funcionando aparecerá uma mensagem no terminal.
 
 ## 🔥 Desafios
- - [] Em produção usar algum serviço de email
- - [] Autenticação Firebase / OAuth
- - [] Validação de campos / erros
+ - [ ] Em produção usar algum serviço de email
+ - [ ] Autenticação Firebase / OAuth
+ - [ ] Validação de campos / erros
  - [x] Testes
  - [x] Deploy
 
