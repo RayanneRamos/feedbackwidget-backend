@@ -60,6 +60,10 @@ Se tudo estiver funcionando aparecerá uma mensagem no terminal.
  - [ ] Validação de campos / erros
  - [x] Testes
  - [x] Deploy
+ - [ ] Função de conclusão do feedback
+ - [ ] Função de resposta do feedback
+ - [ ] Função de remoção do feedback
+ - [ ] Criar o banco de dados de Login
 
 
 ## 📝 License
